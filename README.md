@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Facebook: Teodora Cotirlet
 -Mail : teodoracotirlet@yahoo.com
--Linktr.ee: https://linktr.ee/teodora_c_
+-Linktr.ee: https://linktr.ee/teodora_c_.
 
 <!---
 teodoracotirlet/teodoracotirlet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
