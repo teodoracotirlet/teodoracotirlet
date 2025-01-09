@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @teodoracotirlet
 - 👀 I’m interested in programming, photography, drawing and more :)))
-- 🌱 I’m currently learning Java, JavaScript, C#, Python, Web Design, HTML, CSS, PHP, Bootstrap, SGBD ORACLE
+- 🌱 I’m currently learning Java, JavaScript, Python, Web Design, HTML, CSS, PHP, SQL, SAS, SAP
 - 📫 How to reach me Facebook: Teodora Cotirlet
 - Mail : teodoracotirlet@yahoo.com
+- LinkedIn:https://www.linkedin.com/in/teodora-cot%C3%AErle%C8%9B-060830252/
 - Linktr.ee:(https://linktr.ee/teodora_c)
 
 <!---
